@@ -1,0 +1,2484 @@
+DBpediaProperty	#tables
+name	3645104
+category	3489397
+binary	3579000
+varbinary	35700
+nominal	3999990
+city	2484069
+age	2205379
+date	2168479
+title	1538149
+description	1510237
+size	1225375
+location	1032050
+type	955059
+year	853473
+modelname	2529000
+model	843211
+rating	591323
+artist	579331
+rank	578530
+album	557798
+address	507539
+day	438331
+distance	426854
+team	406040
+author	369922
+result	369457
+length	357595
+idcolumn	354066
+id	354066
+uuid	354066
+identifier	354064
+uniqueidentifier	354064
+key	354065
+uniquely	354065
+unique	354000
+status	335030
+definition	329851
+order	320380
+opponent	311000
+normalized	258100
+money	257500
+categorical	2573000
+predicted	250900
+datetime	2587000
+percentage	2595000
+numerical>=0	2594000
+numerical	2593000
+date and time	259100
+day and time	258900
+date time	258500
+numeric	258300
+integer	254300
+num	254100
+mediumint	254000
+enum	250000
+float	250000
+double	250000
+smallint	250000
+tinyint	250000
+boolean	257700
+qualitative	257100
+continuous	255100
+char	255000
+varchar	254900
+url	2513000
+ip	2513000
+internet protocol	244700
+www	2513000
+http	2513000
+home page	251000
+homepage	251000
+web page	251000
+webpage	251000
+web	251000
+target	250700
+weekday	2489000
+day of week	246300
+day of the week	246100
+birthdate	248100
+birthday	247900
+date of birth	248700
+latitude	2497000
+longitude	2495000
+ph	2493000
+timestamp	246900
+time	2467000
+hour	2503000
+week	2457000
+street	2455000
+zip	245300
+email	2451000
+e mail	244900
+mail	244900
+phone	2437000
+quantitative	242900
+cellphone	244500
+fax	244300
+mobile	244100
+mobile phone	243900
+telephone	243500
+nr	242100
+product	284324
+country	268419
+state	265113
+company	262098
+format	258035
+dec	245609
+varchar	245600
+char	204550
+nvarchar	245400
+nchar	204300
+manufacturer	243252
+comment	241814
+brand	219077
+symbol	205975
+code	202964
+event	202949
+school	179692
+position	166814
+college	158124
+network	157498
+topic	155321
+height	149351
+style	148874
+notes	146931
+weight	146227
+genre	140516
+duration	140065
+affiliate	132612
+class	129508
+club	126731
+part	126632
+region	120232
+gender	110315
+engine	107484
+publisher	106236
+updated	105668
+added	92717
+language	90642
+filename	90537
+service	80689
+lyrics	80052
+source	79352
+population	78233
+number	75919
+cost	74989
+county	74031
+area	70452
+destination	69091
+layout	68652
+season	66149
+note	65837
+origin	65565
+role	64647
+associate	60223
+width	60063
+party	58451
+release date	57340
+license	56205
+tu	55803
+isbn	54249
+developer	53721
+features	52458
+map	49661
+film	49513
+sex	48945
+free	48563
+family	48151
+month	478880
+jockey	45674
+race	44208
+owner	44123
+picture	43287
+material	43251
+power	42180
+designer	41881
+volume	41630
+feature	41254
+director	41031
+domain	40623
+channel	40121
+district	40050
+wins	39849
+series	39472
+capacity	39111
+nation	38759
+cuisine	37809
+range	37217
+currency	36820
+course	36133
+member	35925
+resolution	35483
+information	34823
+sport	34641
+event date	34225
+meaning	33859
+show	33822
+ranking	33766
+grades	33578
+fees	32574
+translator	32420
+reference	32328
+occupation	32155
+activity	31507
+vehicle	31394
+logo	30837
+games	30318
+other	29539
+era	28829
+division	28808
+field	28658
+colour	27235
+project	26811
+start date	26449
+review	26077
+team name	25740
+row	24600
+route	24526
+award	23373
+temperature	23162
+frequency	22792
+budget	22684
+competition	22119
+salary	22031
+work	21984
+speaker	21896
+president	21551
+builder	21087
+species	21084
+episode	20588
+strength	20471
+capital	20388
+common name	20187
+zip code	19921
+end date	19639
+composer	19570
+tag	19468
+creator	19325
+movie	19281
+years	19051
+starring	19048
+fc	18989
+diameter	18909
+credit	18702
+league	18685
+closed	17893
+ratio	17727
+industry	17568
+office	17186
+gross	17085
+discipline	16999
+purpose	16567
+depth	16336
+revenue	16202
+department	15548
+birth date	15438
+elevation	15381
+alias	15277
+band	15042
+board	14888
+crew	14440
+measurements	14089
+classification	14049
+component	14032
+image size	14020
+volumes	13965
+collection	13932
+ethnicity	13740
+media type	13727
+sales	13641
+registration	13518
+cpu	13497
+house	13474
+relation	12945
+scale	12752
+employer	12531
+distributor	12034
+person	11371
+transmission	11368
+institution	11235
+education	11219
+names	11133
+introduced	11019
+branch	11014
+affiliation	10895
+kingdom	10686
+denomination	10612
+quote	10522
+instrument	10488
+climate	10245
+trainer	10136
+operating system	9827
+body style	9748
+coach	9746
+command	9517
+spouse	9409
+organisation	9215
+construction	9212
+university	9014
+star rating	8991
+manager	8960
+ra	8617
+country origin	8580
+area code	8493
+movement	8380
+subdivision	8241
+residence	8180
+operator	8159
+engine type	8146
+province	7918
+profession	7729
+thumbnail	7679
+block	7605
+building	7575
+fuel type	7504
+campus	7494
+father	7442
+promotion	7432
+access	7426
+staff	7369
+nationality	7275
+march	7250
+fuel	7161
+producer	7154
+death date	7008
+displacement	6941
+postalcode	6895
+postal code	6895
+chairman	6847
+agency	6840
+density	6788
+plays	6617
+age range	6615
+poles	6552
+head	6432
+water	6322
+leader	6310
+editor	6197
+races	6162
+original title	6141
+champion	5903
+sire	5877
+closing date	5876
+income	5829
+production	5818
+religion	5787
+ground	5767
+photographer	5716
+birth place	5670
+child	5663
+equipment	5624
+inn	5481
+drama	5463
+capture date	5329
+fuel system	5275
+presenter	5206
+requirement	5194
+output	5180
+continent	5156
+nominee	5098
+abbreviation	5056
+ingredient	4874
+flag	4844
+opponents	4823
+prefix	4813
+unicode	4811
+configuration	4808
+municipality	4430
+mother	4322
+classes	4315
+procedure	4299
+dam	4298
+magazine	4231
+senior	4192
+performer	4157
+uses	4153
+weapon	4144
+commune	4143
+birth name	4106
+selection	4046
+tuition	4036
+technique	3939
+runtime	3822
+membership	3820
+mass	3816
+river	3804
+assets	3772
+home town	3746
+writer	3694
+breeder	3615
+partner	3565
+mission	3468
+judge	3413
+original name	3402
+space	3295
+criteria	3279
+achievement	3214
+cooling system	3071
+commander	3049
+english name	2987
+fastest lap	2946
+genus	2944
+wavelength	2902
+pronunciation	2844
+principal	2807
+established	2786
+committee	2739
+podiums	2676
+stadium	2651
+tenant	2651
+time zone	2624
+record date	2600
+theology	2573
+0-	2569
+0=	2567
+0 if	2565
+1=	2563
+1 if	2561
+10-	2559
+0 or 1	2557
+neither	2555
+or not	2553
+indicator	2549
+rate	2547
+altitude	2545
+gain	2539
+loss	2537
+freq	2535
+letter	253100
+text	2527
+ntext	2526
+mpg	2525
+birthplace	2523
+town	2521
+username	2519
+user	2517
+months	2515
+website	2511
+web site	2511
+large	2505
+angle	2501
+minute	2499
+hours	2491
+appearance	2485
+begin	2483
+end	2477
+expiry	2475
+finish	2473
+start	2471
+days	2465
+weeks	2459
+floor	2433
+breast	2431
+x	2427
+y	2425
+z	2423
+velocity	2419
+opacity	2417
+estate	2415
+absences	2413
+allowance	2411
+humidity	2409
+aggregate	2407
+ash	2405
+attempted	2403
+attendance	2401
+backlog	2399
+batch	2397
+bonus	2395
+bore	2393
+bytes	2391
+cement	2389
+circle	2387
+circumference	2385
+clouds	2383
+co2	2381
+compactness	2379
+compensation	2377
+concentration	2375
+consumption	2373
+contribution	2371
+count	2369
+cylinder	2367
+deposit	2365
+dislikes	2363
+dividend	2361
+donation	2359
+downloads	2357
+duty	2355
+energy	2353
+enrollment	2351
+fare	2349
+fine	2347
+goals	2345
+grade	2343
+grant	2341
+horsepower	2339
+instant	2337
+invoice	2335
+likes	2333
+loan	2331
+lux	2329
+marks	2327
+minutes	2325
+passengers	2323
+perimeter	2321
+points	2319
+portions	2317
+ppm	2315
+radius	2313
+rain	2311
+rpm	2309
+savings	2307
+sets	2305
+score	2303
+seconds	2301
+since	2299
+smoothness	2297
+standard deviation	2295
+stock	2293
+stockpile	2291
+stroke	2289
+subscribers	2287
+tariff	2285
+value added tax	2283
+views	2281
+visitors	2279
+voters	2277
+wage	2275
+winners	2273
+absolute	2271
+adhesion	2269
+albumin	2267
+amount	2265
+averaged	2263
+average	2261
+bacteria	2259
+balance	2257
+blood	2255
+burstiness	2253
+calculated	2251
+capitalisation	2249
+chromatin	2247
+coefficient	2245
+column	2243
+complex	2241
+concavity	2239
+countdown	2237
+correlation	2235
+creatinine	2233
+credits	2231
+curtosis	2229
+debits	2227
+decimal	2225
+decline	2223
+decrease	2221
+deficit	2219
+demand	2217
+dewpoint	2215
+dew point	2213
+diabetes	2211
+difference	2209
+differential	2207
+earnings	2205
+eccentricity	2203
+entropy	2201
+expenditure	2199
+expenses	2197
+export	2195
+factor	2193
+fee	2191
+force	2189
+fraction	2187
+gradient	2185
+gravity	2183
+hemoglobin	2181
+hypertension	2179
+import	2177
+increase	2175
+index	2173
+inflation	2171
+intensity	2169
+interaction	2167
+intercept	2165
+investment	2163
+load	2161
+maximum	2159
+mean	2157
+measures	2155
+measurement	2153
+measure	2151
+median	2149
+metering	2147
+minimum	2145
+mitoses	2143
+mode	2141
+nuclei	2139
+nucleoli	2137
+occurrences	2135
+orientation	2133
+payment	2131
+pressure	2129
+price	2127
+profit	2125
+quantity	2123
+radian	2121
+random	2119
+real	2117
+refund	2115
+reimbursement	2113
+row	2111
+serial	2110
+sequence	2109
+skewness	2107
+symmetry	2105
+slag	2103
+slope	2101
+speed	2099
+sum	2097
+surplus	2095
+take	2093
+tax	2091
+texture	2089
+thickness	2087
+torque	2085
+total	2083
+uniformity	2081
+vacuum	2079
+value	2077
+variance	2075
+visibility	2073
+voltage	2071
+withdrawal	2069
+yield	2067
+hydrogen	2065
+helium	2063
+lithium	2061
+beryllium	2059
+boron	2057
+carbon	2055
+nitrogen	2053
+oxygen	2051
+fluorine	2049
+neon	2047
+sodium	2045
+magnesium	2043
+aluminum	2041
+silicon	2039
+phosphorus	2037
+sulfur	2035
+sulphate	2033
+chloride	2031
+chlorine	2029
+argon	2027
+potassium	2025
+calcium	2023
+scandium	2021
+titanium	2019
+vanadium	2017
+chromium	2015
+manganese	2013
+iron	2011
+cobalt	2009
+nickel	2007
+copper	2005
+zinc	2003
+gallium	2001
+germanium	1999
+arsenic	1997
+selenium	1995
+bromine	1993
+krypton	1991
+rubidium	1989
+strontium	1987
+yttrium	1985
+zirconium	1983
+niobium	1981
+molybdenum	1979
+technetium	1977
+ruthenium	1975
+rhodium	1973
+palladium	1971
+silver	1969
+cadmium	1967
+indium	1965
+antimony	1963
+tellurium	1961
+iodine	1959
+xenon	1957
+cesium	1955
+barium	1953
+lanthanum	1951
+cerium	1949
+praseodymium	1947
+neodymium	1945
+promethium	1943
+samarium	1941
+europium	1939
+gadolinium	1937
+terbium	1935
+dysprosium	1933
+holmium	1931
+erbium	1929
+thulium	1927
+ytterbium	1925
+lutetium	1923
+hafnium	1921
+tantalum	1919
+tungsten	1917
+rhenium	1915
+osmium	1913
+iridium	1911
+platinum	1909
+gold	1907
+thallium	1905
+lead	1903
+bismuth	1901
+polonium	1899
+astatine	1897
+radon	1895
+francium	1893
+radium	1891
+actinium	1889
+thorium	1887
+protactinium	1885
+uranium	1883
+neptunium	1881
+plutonium	1879
+americium	1877
+curium	1875
+berkelium	1873
+californium	1871
+einsteinium	1869
+fermium	1867
+mendelevium	1865
+nobelium	1863
+lawrencium	1861
+rutherfordium	1859
+dubnium	1857
+seaborgium	1855
+bohrium	1853
+hassium	1851
+meitnerium	1849
+darmstadtium	1847
+roentgenium	1845
+copernicium	1843
+nihonium	1841
+flerovium	1839
+moscovium	1837
+livermorium	1835
+tennessine	1833
+oganesson	1831
+alcohol	1829
+acidity	1827
+acid	1825
+tannin	1823
+dimension	1821
+viscosity	1819
+hardness	1817
+flexibility	1815
+moisture	1813
+calorie	1811
+protein	1809
+fat	1807
+carbohydrate	1805
+fiber	1803
+sugar	1801
+benign	1799
+b	1797
+g	1795
+r	1793
+account	1791
+advisor	1789
+aircraft	1787
+airplane	1785
+airport	1783
+alert	1781
+anemia	1779
+animation	1777
+appetite	1775
+approach	1773
+approval	1771
+aroma	1769
+aspiration	1767
+asset	1765
+association	1763
+audience	1761
+badge	1759
+bar	1757
+beach	1755
+benefits	1753
+big	1751
+bus	1749
+business	1747
+°c	1746
+cache	1745
+calendar	1743
+camp	1741
+campaign	1739
+candidate	1737
+car	1735
+card	1733
+carousel	1731
+carrier	1729
+case study	1727
+casino	1725
+catalog	1723
+cathedral	1721
+certificate	1719
+championship	1717
+chart	1715
+check	1713
+church	1711
+cinema	1709
+clarity	1707
+clinic	1705
+clock	1703
+coin	1701
+color	1699
+commerce	1697
+commission	1695
+complaint	1693
+concert	1691
+conference	1689
+convention	1687
+corporation	1685
+court	1683
+cycle	1681
+database	1679
+dealership	1677
+debate	1675
+degree	1673
+delivery	1671
+dependence	1670
+dependent	1670
+depot	1669
+diagnosis	1667
+direction	1665
+discrete	1664
+disease	1663
+driver	1661
+drive	1659
+economy	1657
+enterprise	1655
+error	1653
+facility	1651
+factory	1649
+festival	1647
+firm	1645
+flight	1643
+font	1641
+form	1639
+forum	1637
+four	1635
+fund	1633
+gallery	1631
+going out	1629
+group	1627
+guardian	1625
+gym	1623
+handicap	1621
+harbor	1619
+headquarters	1617
+health	1615
+hidden	1613
+high	1611
+holder	1609
+hostel	1607
+hotel	1605
+initial	1603
+institute	1601
+job	1599
+journal	1597
+keyword	1595
+kind	1593
+lab	1591
+label	1589
+laboratory	1587
+lake	1585
+landmark	1583
+lane	1581
+law	1579
+level	1577
+library	1575
+machine	1573
+major	1571
+make	1569
+mall	1567
+marital	1565
+market	1563
+math	1561
+mathematics	1559
+med	1557
+medium	1555
+menopause	1553
+method	1551
+mine	1549
+ministry	1547
+minor	1545
+monument	1543
+mosque	1541
+more	1539
+motel	1537
+mountain	1535
+music	1533
+musical	1531
+navigate	1529
+neighborhood	1527
+net	1525
+newsletter	1523
+newspaper	1521
+nightclub	1519
+node	1517
+nursery	1515
+nursing home	1513
+objective	1511
+occasion	1509
+occupancy	1507
+ocean	1505
+opera	1503
+operation	1501
+organization	1499
+otherwise	1498
+outlet	1497
+palace	1495
+paper	1493
+park	1491
+parking	1489
+pension	1487
+period	1485
+pharmacy	1483
+pizzeria	1481
+place	1479
+plane	1477
+planet	1475
+plantation	1473
+platform	1471
+play	1469
+point	1468
+port	1467
+portal	1465
+post office	1463
+priority	1461
+provider	1459
+pyramid	1457
+quality	1455
+quarter	1453
+radio	1451
+ranch	1449
+reason	1447
+recital	1445
+refinery	1443
+reform	1441
+relationship	1439
+resort	1437
+restaurant	1435
+retailer	1433
+retirement home	1431
+revolution	1429
+road	1427
+safari	1425
+sector	1423
+semester	1421
+shrine	1419
+sign	1417
+skill	1415
+small	1413
+stretch	1411
+social media	1409
+software	1407
+sort	1405
+subject	1403
+supermarket	1401
+support	1399
+supplier	1397
+symbolic	1395
+symphony	1393
+symposium	1391
+synagogue	1389
+system	1387
+taste	1385
+temple	1383
+term	1381
+terminal	1379
+theater	1377
+tool	1375
+track	1373
+trade	1371
+trimester	1369
+tunnel	1367
+two	1365
+union	1363
+units	1361
+unit	1361
+use	1359
+variety	1357
+vendor	1355
+village	1353
+worker	1351
+yes	1349
+zoo	1347
+flavor	1345
+academy	1343
+accordion	1341
+adaptation	1339
+add	1337
+adjustment	1335
+advancement	1333
+advice	1331
+additive	1329
+agenda	1327
+agreement	1325
+aid	1323
+algebra	1321
+align	1319
+allergen	1317
+altar	1315
+alteration	1313
+amendment	1311
+amusement	1309
+analysis	1307
+answer	1305
+apartment	1303
+applicant	1301
+application	1299
+applications	1297
+appointment	1295
+app	1293
+aquarium	1291
+archive	1289
+arena	1287
+argument	1285
+arrangement	1283
+arrow	1281
+article	1279
+assessment	1277
+assignment	1275
+assistant	1273
+atm	1271
+attorney	1269
+audio	1267
+audit	1265
+auto	1263
+avatar	1261
+avenue	1259
+back	1257
+backup	1255
+backward	1253
+bakery	1251
+ballet	1249
+bank	1247
+banner	1245
+base	1243
+bearer	1241
+bed	1239
+bibliography	1237
+bike	1235
+billboard	1233
+bistro	1231
+blockquote	1229
+blog	1227
+blur	1225
+boat	1223
+body	1221
+bold	1219
+book	1217
+booklet	1215
+bookmark	1213
+bookstore	1211
+bottom	1209
+boulevard	1207
+box	1205
+brasserie	1203
+break	1201
+bridge	1199
+brochure	1197
+buffet	1195
+bulletin	1193
+bureau	1191
+butcher	1189
+button	1187
+buyer	1185
+cafe	1183
+cafeteria	1181
+calculus	1179
+call	1177
+cancel	1175
+candidates	1173
+capitalize	1171
+captcha	1169
+caption	1167
+carpet	1165
+cartoon	1163
+case	1161
+castle	1159
+cell	1157
+cemetery	1155
+center	1153
+century	1151
+ceremony	1149
+chair	1147
+champions	1145
+change	1143
+chapel	1141
+chapter	1139
+chat	1137
+checkbox	1135
+choose	1133
+circus	1131
+citadel	1129
+citation	1127
+cite	1125
+citizen	1123
+citizens	1121
+claim	1119
+click	1117
+client	1115
+clients	1113
+close	1111
+collapse	1109
+colleague	1107
+comments	1105
+competitor	1103
+competitors	1101
+complaints	1099
+complement	1097
+condition	1095
+cone	1093
+confirm	1091
+conflict	1089
+conservatory	1087
+constitution	1085
+consultant	1083
+contact	1081
+container	1079
+contenders	1077
+content	1075
+contestant	1073
+contract	1071
+contrast	1069
+convenience	1067
+conversation	1065
+cookie	1063
+coordinator	1061
+coordinate	1059
+copy	1057
+correction	1055
+cottage	1053
+couch	1051
+council	1049
+coupon	1047
+create	1045
+crematorium	1043
+crime	1041
+cross	1039
+crowd	1037
+crypt	1035
+cube	1033
+cup	1031
+curtain	1029
+curve	1027
+customer	1025
+cut	1023
+deal	1021
+debit	1019
+decade	1017
+declaration	1015
+default	1013
+delegate	1011
+delete	1009
+deliveries	1007
+deposits	1005
+descriptive	1003
+desert	1001
+design	999
+desk	997
+development	995
+device	993
+diagram	991
+dialogue	989
+diary	987
+diner	985
+disagreement	983
+disco	981
+discount	979
+discussion	977
+display	975
+dispute	973
+dissertation	971
+diversity	969
+doctor	967
+document	965
+documentary	963
+documentation	961
+donor	959
+door	957
+dot	955
+double click	953
+download	951
+drag	949
+drawing	947
+drop	945
+drug	943
+dropdown	941
+earth	939
+edit	937
+element	935
+elevator	933
+ellipse	931
+employee	929
+employees	927
+enhancement	925
+enter	923
+entrant	921
+entry	919
+equal	917
+equation	915
+escalator	913
+essay	911
+examination	909
+exchange	907
+exchanges	905
+exercise	903
+expand	901
+expansion	899
+expectancy	897
+experiment	895
+eye	893
+farm	891
+feedback	889
+fence	887
+figure	885
+file	883
+filter	881
+finalist	879
+finalists	877
+final	875
+first	873
+fitness center	871
+fixed	869
+flex	867
+flyer	865
+focus	863
+folder	861
+follower	859
+followers	857
+formulation	856
+formula	856
+footer	855
+footnote	853
+forest	851
+fort	849
+fortress	847
+forward	845
+foundry	843
+friend	841
+fullscreen	839
+function	837
+gadget	835
+galaxy	833
+game	831
+gang	829
+garage	827
+garden	825
+gas station	823
+gate	821
+geometry	819
+general	817
+gig	815
+goal	813
+goods	811
+graduate	809
+grape	807
+graph	805
+graveyard	803
+greater than	801
+greenhouse	799
+grid	797
+grill	795
+grocery	793
+growth	791
+guests	789
+guide	787
+handbook	785
+hashtag	783
+hash	782
+header	781
+heart	779
+help	777
+hexagon	775
+hide	773
+highlight	771
+hill	769
+home page	767
+home	767
+homework	765
+hospital	763
+host	761
+housing	759
+hover	757
+hyperbola	755
+icon	753
+illustration	751
+immigration	749
+improvement	747
+independence	746
+independent	746
+inductee	745
+inequality	743
+infinity	741
+influencer	739
+innovation	737
+input	735
+inspection	733
+instance	731
+instructor	729
+integral	727
+intern	725
+intersection	723
+interval	722
+interview	721
+interviewee	719
+interviewer	717
+inventories	715
+inventory	713
+investigation	711
+investor	709
+issue	707
+italic	705
+item	703
+justify	701
+king	699
+ladder	697
+land	695
+lap	693
+last	691
+lawyer	689
+leaflet	687
+lecture	685
+lecturer	683
+left	681
+lesson	679
+liabilities	677
+lift	675
+like	673
+link	671
+list	669
+loading	667
+log	665
+logic	663
+login	661
+logout	659
+loser	657
+losers	655
+lowercase	653
+magnitude	651
+manual	649
+margin	647
+marker	645
+match	643
+matrix	641
+mausoleum	639
+medicine	637
+medication	635
+meeting	633
+members	631
+memo	629
+memorial	627
+menu	625
+message	623
+migration	621
+milestone	619
+mill	617
+millennium	615
+minister	613
+minus	611
+missile	609
+modal	607
+modification	605
+module	603
+mortality	601
+move	599
+multiply	597
+musician	595
+mute	593
+news	591
+next	589
+nominees	587
+notification	585
+nowrap	583
+nurse	581
+nutrition	579
+octagon	577
+offer	575
+officer	573
+offset	571
+open	569
+opinion	567
+opposition	565
+orchard	563
+ordered	561
+orders	559
+organizer	557
+outcome	555
+overflow	553
+padding	551
+pad	549
+pagination	547
+pagoda	545
+paid	544
+painting	543
+pamphlet	541
+panel	539
+parabola	537
+participants	535
+passenger	533
+password	531
+paste	529
+path	527
+patient	525
+patients	523
+pattern	521
+pause	519
+payments	517
+penalty	515
+pentagon	513
+photo	511
+pick	509
+plan	507
+plus	505
+podcast	503
+podium	501
+policy	499
+pole	497
+poll	495
+polygon	493
+post	491
+poster	489
+practice	487
+presentation	485
+press release	483
+previous	481
+print	479
+prism	477
+probability	475
+problem	473
+products	471
+process	469
+professor	467
+profile	465
+program	463
+progress	461
+progression	459
+property	457
+proportion	455
+proposal	453
+prototype	451
+pub	449
+publication	447
+purchase	445
+purchases	443
+quadrilateral	441
+queries	439
+query	437
+question	435
+questionnaire	433
+quiz	431
+ramp	429
+receipt	427
+receipts	425
+recommendation	423
+record	421
+rectangle	419
+redo	417
+reflect	415
+refresh	413
+refunds	411
+register	409
+regression	407
+regulation	405
+rehabilitation center	403
+reign	401
+reload	399
+reminder	397
+remove	395
+report	393
+request	391
+requests	389
+research	387
+researcher	385
+reservation	383
+reserve	381
+reset	379
+resident	377
+residents	375
+resize	373
+resource	371
+restore	369
+return	367
+returns	365
+reviewer	363
+revision	361
+right	359
+rollback	357
+roman	355
+roof	353
+room	351
+root	349
+rotate	347
+rule	345
+runner up	343
+runners up	341
+sale	339
+salon	337
+sample	335
+sanctuary	333
+save	331
+schedule	329
+scholarship	327
+scorer	325
+scroll	323
+sculpture	321
+search	319
+seat	317
+section	315
+security answer	313
+security question	311
+select	309
+seller	307
+seminar	305
+session	303
+set	301
+settings	299
+shadow	297
+shape	296
+share	295
+shares	293
+shear	291
+ship	289
+shipment	287
+shipments	285
+shop	283
+side	281
+site	279
+sketch	277
+skew	275
+slider	273
+society	271
+sofa	269
+solid	267
+solution	265
+sound	263
+spacer	261
+specification	259
+spectator	257
+speech	255
+sphere	253
+spinner	251
+sponsor	249
+square	247
+stage	245
+stairs	243
+stamp	241
+standard	239
+star	237
+statement	236
+static	235
+statistics	233
+statue	231
+steakhouse	229
+step	227
+sticker	225
+sticky	223
+stop	221
+store	219
+story	217
+strategy	215
+strikethrough	213
+string	211
+stringbook	209
+student	207
+students	205
+studio	203
+study	201
+submission	199
+submit	197
+submitter	195
+subscriber	193
+subscription	191
+subset	189
+success	187
+suggestion	185
+summit	183
+supervisor	181
+surface	179
+survey	177
+synopsis	175
+tab	173
+table	171
+tale	169
+talk	167
+tap	165
+task	163
+tavern	161
+teacher	159
+template	157
+terms	155
+test	153
+testimonial	151
+textarea	149
+theme	147
+therapist	145
+thesis	143
+throne	141
+timeline	139
+timer	137
+token	135
+tooltip	133
+top	131
+tournament	129
+tower	127
+trades	125
+trail	123
+train	121
+transaction	119
+transactions	117
+transfer	115
+transfers	113
+transform	111
+transformation	109
+transition	107
+translate	105
+treaty	103
+trial	101
+triangle	99
+trigonometry	97
+truncate	95
+trust	93
+tutorial	91
+uncheck	89
+underline	87
+undo	85
+universe	83
+unmute	81
+unordered	79
+update	77
+upgrade	75
+upload	73
+uploads	71
+uppercase	69
+users	67
+validate	65
+valley	63
+variation	61
+variant	59
+vector	57
+venue	56
+verification	55
+version	53
+video call	51
+video	49
+view	47
+villa	45
+vineyard	43
+visible	41
+visit	39
+visitor	37
+volunteer	35
+voter	33
+wall	31
+warehouse	29
+war	27
+warning	25
+webinar	23
+webpage	21
+well	19
+whitepaper	17
+wholesaler	15
+window	13
+winner	11
+workplace	9
+workshop	7
+world	5
+zone	3
+zoom	1
+production company	2566
+army	2554
+trademark	2539
+territory	2481
+architect	2473
+per capita income	2463
+current status	2420
+security	2411
+interest	2393
+project type	2349
+training	2347
+shuttle	2304
+aircraft type	2255
+guest	2215
+seating capacity	2199
+animal	2192
+wheelbase	2167
+citizenship	2164
+assembly	2152
+limit	2119
+tree	2117
+publication date	2108
+participant	2070
+skills	2060
+top speed	2045
+background	2041
+power output	2016
+parish	1998
+arm	1986
+administrator	1973
+certification	1966
+enemy	1958
+portfolio	1945
+secretary	1824
+subtitle	1807
+fighter	1806
+satellite	1788
+wingspan	1785
+signature	1770
+plant	1761
+first air date	1742
+alliance	1739
+track number	1736
+parent	1719
+rival	1716
+cas number	1711
+call sign	1690
+management	1650
+island	1602
+pastor	1594
+birth year	1588
+fate	1560
+iucn category	1474
+unit cost	1452
+reservations	1422
+sea	1367
+chairperson	1365
+epoch	1343
+retired	1333
+county seat	1332
+last air date	1309
+sexual orientation	1293
+voice	1276
+government	1253
+airdate	1251
+net income	1249
+hair color	1236
+jurisdiction	1236
+mentor	1207
+lowest	1189
+aspect ratio	1174
+foundation	1174
+draft	1167
+contractor	1166
+founder	1155
+debut	1123
+overall record	1122
+fuel capacity	1101
+issn	1078
+general manager	1076
+compiler	1063
+vice president	1055
+athletics	1048
+eyes	1025
+incumbent	1019
+record label	995
+chain	984
+motto	968
+total population	962
+start year	934
+car number	925
+compression ratio	913
+similar	904
+patent	892
+mayor	877
+chromosome	858
+canton	856
+floor area	850
+icao code	836
+ensemble	827
+related	820
+launch	818
+governor	814
+networth	799
+end year	796
+cluster	792
+senator	792
+establishment	770
+lounge	768
+iata code	766
+flower	765
+parent company	759
+launch pad	758
+country rank	757
+supply	755
+circulation	751
+grid reference	751
+completion date	750
+musicians	731
+authority	730
+winning team	726
+bird	717
+date closed	708
+first flight	701
+equity	700
+current rank	698
+right ascension	698
+museum	662
+chef	655
+episode number	630
+supplies	624
+hybrid	602
+opening date	599
+fips code	597
+narrator	588
+picture description	587
+launch date	585
+synonym	583
+visitors total	567
+federal state	565
+crew size	565
+anniversary	544
+date completed	543
+declination	543
+discharge	533
+charge	533
+death place	530
+leadership	525
+regency	518
+power type	516
+cultivar	514
+average speed	506
+webcast	505
+casualties	503
+executive producer	501
+parliament	470
+formation date	468
+missions	464
+constellation	456
+diocese	454
+championships	453
+alternative title	445
+feat	442
+waist size	437
+chief executive officer	436
+eye color	433
+ascent	433
+discontinued	433
+superintendent	431
+licensee	431
+illustrator	430
+battle	425
+rocket	421
+emblem	421
+tattoo	421
+mascot	418
+patron	414
+operating income	402
+delivery date	401
+novel	400
+ons	396
+slogan	395
+order date	394
+shoots	394
+project coordinator	385
+relative	385
+engineer	384
+melting point	382
+nearest city	380
+surface area	378
+school code	370
+last flight	368
+oversight	368
+border	344
+explorer	339
+borough	332
+death year	327
+other name	326
+number built	325
+diploma	317
+acceleration	317
+language code	315
+quotation	313
+decoration	305
+monarch	301
+rector	301
+voice type	298
+frozen	294
+spike	294
+prefecture	287
+commissioner	287
+subsidiary	284
+launch site	281
+old name	280
+track length	276
+choreographer	273
+settlement	271
+first appearance	268
+dean	263
+delegation	263
+foal date	258
+boiler	257
+uci code	253
+fuel consumption	252
+session number	243
+inclination	242
+trustee	236
+programming language	235
+alumni	235
+prominence	235
+subsystem	235
+crew member	232
+boiling point	231
+service number	226
+lieutenant	221
+visitors per day	220
+forces	217
+anthem	216
+second team	213
+internationally	213
+most wins	211
+allegiance	209
+pseudonym	205
+ethnic group	204
+election date	202
+census year	200
+saint	197
+creative director	196
+impact factor	196
+specialist	196
+discoverer	195
+life expectancy	193
+comic	191
+highest rank	191
+dynasty	189
+headquarter	187
+spacecraft	183
+phone prefix	182
+maximum temperature	181
+feast day	180
+mountain range	179
+national ranking	178
+chaplain	176
+garrison	173
+draft year	171
+named after	169
+population density	169
+flag link	169
+painter	168
+managing editor	167
+prime minister	165
+dress code	161
+arrondissement	160
+ist	160
+derivative	153
+work area	153
+watershed	150
+binomial	148
+decay	147
+booster	146
+national team	146
+b side	145
+flora	144
+successor	143
+former name	141
+local authority	140
+academy award	140
+start point	139
+congressional district	136
+irish name	134
+opening theme	130
+observatory	129
+discovered	128
+bust size	127
+last win	126
+original language	125
+leader name	124
+chief editor	122
+first game	120
+lcc	117
+last position	116
+certification date	116
+largest city	115
+title date	115
+urban area	115
+information name	112
+lower age	110
+upper age	110
+geographic coordinates	110
+penalty score	109
+current season	107
+launch vehicle	106
+introduction date	106
+predecessor	105
+ec number	103
+top scorer	102
+orbital period	102
+highschool	101
+massif	101
+iupac name	101
+cylinder bore	100
+deputy	99
+gross domestic product	99
+sibling	97
+last season	95
+draft round	94
+piston stroke	94
+relief	94
+homeport	93
+premiere date	92
+team size	92
+highest position	90
+circuit length	90
+playing time	89
+government type	88
+set designer	87
+fauna	87
+produces	86
+draft pick	86
+redline	86
+ruling	86
+end point	85
+alma mater	84
+location city	84
+current record	82
+architectural style	80
+curator	80
+route number	80
+speed limit	78
+geology	77
+subdivisions	76
+regime	74
+production years	74
+animator	73
+albedo	73
+editing	72
+custodian	72
+watercourse	72
+next event	71
+currency code	71
+apparent magnitude	68
+varietals	67
+governing body	66
+race track	66
+setup time	66
+last appearance	65
+complexion	65
+chancellor	64
+cover artist	64
+last race	63
+different	63
+maximum depth	63
+former team	62
+toll	62
+circuit name	61
+pdb	60
+legal form	59
+official language	58
+provides	58
+latest release date	58
+line length	58
+total tracks	58
+honours	57
+minimum system requirements	57
+minimum temperature	56
+wars	56
+attorney general	55
+astrological sign	53
+dissolved	52
+retirement date	52
+artery	51
+third team	51
+crews	51
+organ system	50
+ceremonial county	50
+subregion	50
+deanery	50
+ordination	50
+other appearances	49
+promoted	49
+special effects	49
+maiden voyage	49
+broadcast area	48
+vein	48
+medalist	48
+notable features	48
+race length	48
+draft team	46
+assistant principal	46
+combatant	46
+passengers per year	46
+virtual channel	46
+date last updated	46
+band member	44
+ideology	44
+comparable	44
+co producer	44
+us sales	44
+first race	43
+frazioni	43
+entourage	43
+endowment	43
+piercing	43
+nerve	42
+meeting city	42
+orbits	42
+program cost	42
+construction material	41
+biome	41
+council area	41
+patron saint	41
+load limit	41
+gnl	41
+billed	40
+death cause	40
+commandant	40
+bed count	39
+disbanded	39
+hip size	39
+refseq	39
+elo rating	39
+governorate	39
+founding date	38
+governor general	37
+outflow	36
+autonomy	36
+distance traveled	36
+apskritis	36
+crosses	35
+main building	35
+teaching staff	34
+highest break	34
+school board	33
+handedness	33
+utc offset	33
+date extended	33
+death age	33
+first launch	33
+party number	33
+sequence number	33
+inflow	31
+source country	31
+mean temperature	31
+other party	30
+television series	30
+damsire	30
+follows	30
+wilaya	30
+date construction	30
+nssdc id	30
+believers	30
+hub airport	29
+heir	29
+landeshauptmann	29
+related functions	29
+unesco	29
+eruption	29
+infant mortality	29
+escape velocity	28
+maximum elevation	27
+seniority	27
+career points	27
+first win	26
+disciple	26
+squad number	26
+average depth	26
+former coach	25
+influenced	25
+launches	25
+market capitalisation	25
+military unit	24
+daira	24
+deme	24
+map description	24
+spokesperson	23
+absolute magnitude	23
+rotation period	23
+location country	22
+digital channel	22
+facility id	22
+costume designer	21
+population year	21
+principal engineer	20
+associated act	20
+project start date	20
+name day	20
+military branch	19
+precursor	19
+jstor	19
+approximate calories	19
+budget year	19
+city rank	19
+outskirts	19
+head teacher	18
+cinematography	18
+league champion	18
+conservation status	18
+date use	18
+provost	17
+gaelic name	17
+first owner	16
+area total	16
+roof height	16
+wing area	16
+vehicle code	15
+project end date	15
+landing date	15
+oclc	15
+boiler pressure	14
+notable work	14
+contract award	14
+parking information	14
+barangays	14
+historical name	14
+sat score	13
+gold medalist	13
+government region	13
+key person	13
+home arena	13
+demonym	13
+school number	13
+rebuild date	13
+date act	13
+annual temperature	13
+landing site	13
+archipelago	12
+music composer	12
+region served	12
+vice chancellor	12
+makeup artist	12
+religious order	12
+insee code	12
+reporting mark	12
+capital region	11
+capital district	11
+list item	11
+opening season	11
+opening year	11
+price money	11
+analog channel	11
+colonial name	11
+flying hours	11
+region type	11
+vice principal	10
+act score	10
+academic advisor	10
+largest country	10
+mill type	10
+automobile model	10
+coden	10
+total mass	10
+affair	10
+cable car	10
+reopened	10
+connotation	9
+debut team	9
+game engine	9
+associate editor	9
+head chef	9
+dfe	9
+sport discipline	9
+bioavailability	9
+personname	9
+population total	9
+total cargo	9
+city link	9
+capital country	8
+academic discipline	8
+current member	8
+grandsire	8
+torch bearer	8
+bioclimate	8
+date unveiled	8
+maximum area	8
+region link	8
+broadcast network	7
+bronze medalist	7
+portrayer	7
+wine region	7
+fastest driver	7
+golden raspberry award	7
+source state	7
+area metro	7
+lccn	7
+valvetrain	7
+tournament record	7
+average class size	7
+blazon	7
+historical region	7
+last launch	7
+surface gravity	7
+administrative district	6
+government position	6
+picture format	6
+previous work	6
+twin city	6
+third driver	6
+apoapsis	6
+founding year	6
+orbital inclination	6
+serving temperature	6
+other wins	6
+first mention	6
+licence number	6
+regional council	6
+ski lift	6
+status year	6
+flag bearer	5
+gene location	5
+main interest	5
+management position	5
+national affiliation	5
+unitary authority	5
+alongside	5
+buildingtype	5
+classis	5
+golden globe award	5
+last champion	5
+solicitor general	5
+taoiseach	5
+torque output	5
+extinction date	5
+mission duration	5
+periapsis	5
+service module	5
+access date	5
+area rank	5
+gini coefficient	5
+kanji name	5
+highest mountain	4
+literary genre	4
+lymph	4
+musical artist	4
+running mate	4
+musictype	4
+coaching record	4
+pubchem	4
+uniprot	4
+vehicles per day	4
+bowl record	4
+human development index	4
+minimum area	4
+rebuilder	3
+aircraft electronic	3
+highest place	3
+international affiliation	3
+military rank	3
+term period	3
+past member	3
+largest metro	3
+old district	3
+organisation member	3
+youth club	3
+project objective	3
+area land	3
+batting side	3
+commissioning date	3
+destruction date	3
+final flight	3
+formation year	3
+geologic period	3
+leader title	3
+maiden flight	3
+mean radius	3
+medlineplus	3
+mesh number	3
+statistic value	3
+city type	3
+former call sign	3
+majority leader	3
+end reign	3
+flagsize	3
+general council	3
+hairs	3
+manx name	3
+event period	3
+purchasing power parity	3
+scots name	3
+siren number	3
+winter temperature	3
+first winner	2
+aircraft helicopter	2
+distributing label	2
+ending theme	2
+lieutenancy area	2
+owning company	2
+previous event	2
+resting place	2
+route start	2
+source region	2
+twin country	2
+current production	2
+metropolitan borough	2
+royal anthem	2
+state delegate	2
+first driver	2
+administrative center	2
+emmy award	2
+executive headteacher	2
+mouth state	2
+sil code	2
+subprefecture	2
+season number	2
+location identifier	2
+eruption date	2
+longname	2
+mesh name	2
+passengers per day	2
+visitors per year	2
+fare zone	2
+publicly accessible	2
+rebuilding year	2
+shoe number	2
+coast line	2
+maori name	2
+military government	2
+summer temperature	2
+welsh name	2
+education system	1
+project participant	1
+appointer	1
+automobile platform	1
+capital position	1
+daylight saving time zone	1
+distributing company	1
+firstleader	1
+lowest position	1
+next mission	1
+previous mission	1
+programme format	1
+structural system	1
+orogeny	1
+sheading	1
+current partner	1
+highway system	1
+home stadium	1
+oil system	1
+left child	1
+right child	1
+acting headteacher	1
+afi award	1
+co executive producer	1
+enshrined deity	1
+grammy award	1
+most populous country	1
+museumtype	1
+peabody award	1
+unique reference number	1
+vice leader	1
+other channel	1
+asset under management	1
+chebi	1
+dewey decimal classification	1
+dissolution date	1
+drugbank	1
+floor count	1
+last election date	1
+last publication date	1
+mesh id	1
+minimum elevation	1
+nuts code	1
+omim id	1
+total launches	1
+imdb id	1
+campus size	1
+height above average terrain	1
+rail gauge	1
+administrative status	1
+capital coordinates	1
+city since	1
+continent rank	1
+coronation date	1
+historical map	1
+code istat	1
+japan name	1
+service end date	1
+ski tow	1
+start career	1
