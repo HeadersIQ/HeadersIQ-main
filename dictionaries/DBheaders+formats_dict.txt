@@ -430,6 +430,7 @@ freq	2535
 letter	253100
 text	2527
 ntext	2526
+longtext	2526
 mpg	2525
 birthplace	2523
 town	2521
@@ -665,6 +666,751 @@ cobalt	2009
 nickel	2007
 copper	2005
 zinc	2003
+ids	2000
+identifier name	2000
+identity	2000
+penalty kicks	2000
+penalties	2000
+how often do you	2000
+primary key	2000
+foreign key	2000
+unique key	2000
+primarykey	2000
+foreignkey	2000
+uk pound	2000
+uniquekey	2000
+akey	2000
+keys	2000
+hashed	2000
+hashing	2000
+hashes	2000
+ssn porch	2000
+ssn	2000
+identifiers	2000
+identities	2000
+identifications	2000
+identification	2000
+indentification	2000
+identies	2000
+indentity	2000
+idenity	2000
+identitiy	2000
+identiy	2000
+uniform resource identifier	2000
+date hour	2000
+datehour	2000
+created	2000
+smalldatetime	2000
+eventtime	2000
+event time	2000
+logtime	2000
+log time	2000
+acousticness	2000
+danceability	2000
+percentages	2000
+percentile	2000
+percent	2000
+per cent	2000
+%	2000
+bool	2000
+has	2000
+is	2000
+basement	2000
+converted	2000
+do you	2000
+either	2000
+exited	2000
+exercise induced angina	2000
+fatigue	2000
+follow up	2000
+married	2000
+obesity	2000
+own	2000
+pop up	2000
+shortness	2000
+verified	2000
+self employed	2000
+smoke	2000
+smoker	2000
+smokes	2000
+survived	2000
+confirmed	2000
+consent	2000
+heart rate	2000
+heartrate	2000
+thalach	2000
+urls	2000
+ºc	2000
+ºf	2000
+°f	2000
+absolute value	2000
+abs value	2000
+heights	2000
+no of	2000
+ip number	2000
+contact number	2000
+cell number	2000
+cellular number	2000
+cellular phone	2000
+telephone number	2000
+cell phones	2000
+cell phone	2000
+cellphones	2000
+cellphone user	2000
+faxing	2000
+phones	2000
+tele phone	2000
+telphone	2000
+phone sold	2000
+phone service	2000
+phone time	2000
+phone usage	2000
+week number	2000
+model name	2000
+per year	2000
+state of charge	2000
+cognitive state	2000
+emotional state	2000
+menopausal state	2000
+same state	2000
+state population	2000
+state rank	2000
+states	2000
+enclave	2000
+kilometers per hour	2000
+miles per gallon	2000
+miles	2000
+capital formation	2000
+capital gains	2000
+venture capital	2000
+working capital	2000
+locality	2000
+birthplaces	2000
+boroughs	2000
+municipalities	2000
+prefectures	2000
+towns	2000
+settlements	2000
+localities	2000
+hometown	2000
+township	2000
+countries	2000
+ioc	2000
+nacionality	2000
+sovereign state	2000
+countrys	2000
+coutnry	2000
+counry	2000
+thenation	2000
+nationalities	2000
+citizenships	2000
+per month	2000
+sales month	2000
+sale month	2000
+firstname	2000
+fullname	2000
+lastname	2000
+nickname	2000
+unnamed	2000
+ip address	2000
+web address	2000
+www address	2000
+weburl	2000
+email address	2000
+electronic mail	2000
+emails	2000
+e mails	2000
+web portal	2000
+web resource	2000
+webiste	2000
+webites	2000
+weblink	2000
+webpages	2000
+pages	2000
+webportal	2000
+websites	2000
+aspx	2000
+clicking	2000
+clicks	2000
+curl	2000
+favicon	2000
+googlebot	2000
+href	2000
+htdocs	2000
+htaccess	2000
+homepages	2000
+hotlinks	2000
+hotlink	2000
+htm	2000
+hyperlinks	2000
+iframes	2000
+interlinking	2000
+inurl	2000
+jsp	2000
+links	2000
+listview	2000
+sftp	2000
+sites	2000
+ssh	2000
+startpage	2000
+stylesheet	2000
+subpages	2000
+tinyurl	2000
+currencies	2000
+curency	2000
+monies	2000
+funds	2000
+moneys	2000
+cash	2000
+greenback	2000
+dollar	2000
+usd	2000
+renminbi	2000
+renmimbi	2000
+euro	2000
+dollars	2000
+gbp	2000
+lira	2000
+peso	2000
+pound	2000
+rupee	2000
+yen	2000
+streaming television	2000
+time of day	2000
+clock time	2000
+per minute	2000
+lat coord	2000
+long passing	2000
+short passing	2000
+long balls	2000
+long shots	2000
+long moves	2000
+lon coord	2000
+lattitude	2000
+latitudes	2000
+longitudes	2000
+tartness	2000
+alcalinity	2000
+alkalinity	2000
+tannins	2000
+astringency	2000
+saltiness	2000
+saltness	2000
+salinity	2000
+ace	2000
+faced	2000
+saved	2000
+won	2000
+blood pressure	2000
+bloodpressure	2000
+stays	2000
+birth day	2000
+mmddyy	2000
+mmddyyyy	2000
+yyyymmdd	2000
+yymmdd	2000
+ddmmyy	2000
+ddmmyyyy	2000
+end time	2000
+time end	2000
+year end	2000
+year established	2000
+finish time	2000
+garage finish	2000
+release	2000
+start time	2000
+time start	2000
+year start	2000
+timestamps	2000
+when	2000
+per day	2000
+total day	2000
+day of month	2000
+agent	2000
+mileage	2000
+wagers	2000
+wager	2000
+usages	2000
+usage	2000
+storage	2000
+zipcode	2000
+post code	2000
+postcodes	2000
+postcode	2000
+aged	2000
+ages	2000
+yearsold	2000
+years old	2000
+per week	2000
+bigint	2000
+bit	2000
+expressway	2000
+freeway	2000
+highway	2000
+motorway	2000
+promenade	2000
+floors	2000
+factors	2000
+achievements	2000
+ch 2o	2000
+humidities	2000
+humid	2000
+admissions	2000
+advertisement	2000
+aggregated	2000
+airfares	2000
+allowances	2000
+amplitude	2000
+armspan	2000
+assists	2000
+aspartate transaminase	2000
+attempts	2000
+batches	2000
+bath	2000
+bonuses	2000
+beds	2000
+bookings	2000
+brightness	2000
+byte	2000
+calls	2000
+cancellations	2000
+candelas	2000
+carbon oxide	2000
+cars	2000
+cases	2000
+cholesterol	2000
+chunks	2000
+circles	2000
+circumferences	2000
+colours	2000
+companies	2000
+completions	2000
+concentrations	2000
+consumptions	2000
+children	2000
+contributions	2000
+costing	2000
+costs	2000
+counted	2000
+counting	2000
+counts	2000
+crispness	2000
+current	2000
+curvature	2000
+deaths	2000
+defending	2000
+densities	2000
+depths	2000
+diameters	2000
+displacements	2000
+dividends	2000
+donated	2000
+donating	2000
+donations	2000
+downpours	2000
+downpour	2000
+dribling	2000
+durations	2000
+duties	2000
+efficiencies	2000
+enrollments	2000
+enrolment	2000
+evaluation	2000
+fares	2000
+fatalities	2000
+female	2000
+fieldgoal	2000
+fines	2000
+flow	2000
+fluidity	2000
+friends	2000
+funding	2000
+gamewinners	2000
+generation	2000
+glucose	2000
+gust	2000
+horse power	2000
+illuminance	2000
+impressions	2000
+inception	2000
+incomes	2000
+instrumentalness	2000
+insulin	2000
+internode	2000
+invoices	2000
+invoicing	2000
+kick	2000
+kilobytes	2000
+less than high school	2000
+lightness	2000
+liveness	2000
+lumens	2000
+male	2000
+market cap	2000
+mark	2000
+matches	2000
+mbytes	2000
+memberships	2000
+memory	2000
+over 18	2000
+over	2000
+overs	2000
+overall	2000
+pace	2000
+parameter	2000
+parts per billion	2000
+parts per million	2000
+passing	2000
+payouts	2000
+payout	2000
+payscale	2000
+peak	2000
+per billion	2000
+per capita	2000
+per million	2000
+per thousand	2000
+perceptions	2000
+perimeters	2000
+perimetre	2000
+personal fouls	2000
+played	2000
+portion	2000
+popularity	2000
+pregnancies	2000
+radii	2000
+radiuses	2000
+rains	2000
+rainfall	2000
+ratings	2000
+remuneration	2000
+revenues	2000
+risk	2000
+salaries	2000
+saves	2000
+seats	2000
+sections	2000
+sensor	2000
+scored	2000
+scores	2000
+scoring	2000
+screen	2000
+self	2000
+severance	2000
+shooting	2000
+sideband	2000
+silkiness	2000
+sizes	2000
+speechiness	2000
+square foot	2000
+started	2000
+steps	2000
+stipend	2000
+swaths	2000
+swath	2000
+tall	2000
+television	2000
+tempo	2000
+tenure	2000
+tracts	2000
+throw	2000
+throws	2000
+turnout	2000
+vaccinated	2000
+valence	2000
+variable frequency oscillator	2000
+visits	2000
+vitamin	2000
+votes	2000
+wages	2000
+weakness	2000
+wk	2000
+yagi	2000
+yards	2000
+abilities	2000
+availability	2000
+balcony	2000
+cheating	2000
+churn	2000
+calc	2000
+credit card	2000
+valor	2000
+chest pain	2000
+concerns	2000
+confederation	2000
+config	2000
+confusion	2000
+congestion	2000
+commonwealth	2000
+connection	2000
+connections	2000
+connectivity	2000
+consequence	2000
+console	2000
+constipation	2000
+constructor	2000
+consulting	2000
+consumer	2000
+contraceptives	2000
+control	2000
+conversion	2000
+conversions	2000
+data	2000
+demographics	2000
+diet	2000
+difficulty	2000
+dish	2000
+economics	2000
+electro cardiogram	2000
+embarked	2000
+employers	2000
+employment	2000
+entity	2000
+exposure	2000
+finished	2000
+fruitiness	2000
+geography	2000
+habits	2000
+habit	2000
+habitat	2000
+hand	2000
+medium size	2000
+option	2000
+qualification	2000
+air quality	2000
+round	2000
+satisfaction	2000
+seed	2000
+segment	2000
+severity	2000
+stress	2000
+symptom	2000
+tier	2000
+timezone	2000
+iconic	2000
+electronics	2000
+grouping	2000
+mechanism	2000
+possession	2000
+presence	2000
+purity	2000
+sentiment	2000
+weather	2000
+attack	2000
+fasting blood sugar	2000
+bodyfat	2000
+bodyweight	2000
+coefficients	2000
+cover	2000
+experience	2000
+koi	2000
+loudness	2000
+old peak	2000
+particulate matter	2000
+pollution	2000
+poundage	2000
+respiration	2000
+km	2000
+taxes	2000
+aluminium	2000
+sulphur	2000
+commissions	2000
+confidence	2000
+contractions	2000
+impact	2000
+runs	2000
+spending	2000
+1900	2000
+1901	2000
+1902	2000
+1903	2000
+1904	2000
+1905	2000
+1906	2000
+1907	2000
+1908	2000
+1909	2000
+1910	2000
+1911	2000
+1912	2000
+1913	2000
+1914	2000
+1915	2000
+1916	2000
+1917	2000
+1918	2000
+1919	2000
+1920	2000
+1921	2000
+1922	2000
+1923	2000
+1924	2000
+1925	2000
+1926	2000
+1927	2000
+1928	2000
+1929	2000
+1930	2000
+1931	2000
+1932	2000
+1933	2000
+1934	2000
+1935	2000
+1936	2000
+1937	2000
+1938	2000
+1939	2000
+1940	2000
+1941	2000
+1942	2000
+1943	2000
+1944	2000
+1945	2000
+1946	2000
+1947	2000
+1948	2000
+1949	2000
+1950	2000
+1951	2000
+1952	2000
+1953	2000
+1954	2000
+1955	2000
+1956	2000
+1957	2000
+1958	2000
+1959	2000
+1960	2000
+1961	2000
+1962	2000
+1963	2000
+1964	2000
+1965	2000
+1966	2000
+1967	2000
+1968	2000
+1969	2000
+1970	2000
+1971	2000
+1972	2000
+1973	2000
+1974	2000
+1975	2000
+1976	2000
+1977	2000
+1978	2000
+1979	2000
+1980	2000
+1981	2000
+1982	2000
+1983	2000
+1984	2000
+1985	2000
+1986	2000
+1987	2000
+1988	2000
+1989	2000
+1990	2000
+1991	2000
+1992	2000
+1993	2000
+1994	2000
+1995	2000
+1996	2000
+1997	2000
+1998	2000
+1999	2000
+2000	2000
+2001	2000
+2002	2000
+2003	2000
+2004	2000
+2005	2000
+2006	2000
+2007	2000
+2008	2000
+2009	2000
+2010	2000
+2011	2000
+2012	2000
+2013	2000
+2014	2000
+2015	2000
+2016	2000
+2017	2000
+2018	2000
+2019	2000
+2020	2000
+2021	2000
+2022	2000
+2023	2000
+2024	2000
+2025	2000
+2026	2000
+2027	2000
+2028	2000
+2029	2000
+low	2000
+player	2000
+alphanumeric	2000
+artists	2000
+authors	2000
+bats	2000
+battles	2000
+bio	2000
+books	2000
+box office	2000
+captain	2000
+cast	2000
+senior citizen	2000
+context	2000
+succint description	2000
+directors	2000
+doctors	2000
+employee residence	2000
+engagement	2000
+favorites	2000
+favourites	2000
+following	2000
+food	2000
+forest fires	2000
+per game	2000
+groceries	2000
+headlines	2000
+incumbents	2000
+ingredients	2000
+intent	2000
+medical school	2000
+mediumtext	2000
+overview	2000
+owners	2000
+producers	2000
+referee	2000
+remarks	2000
+reviews	2000
+bathrooms	2000
+bathroom	2000
+bedrooms	2000
+bedroom	2000
+washrooms	2000
+washroom	2000
+rooms	2000
+shows	2000
+siblings	2000
+speakers	2000
+studios	2000
+summary	2000
+treatment	2000
+trip	2000
+writers	2000
+purchased	2000
+customers	2000
+pain	2000
+present	2000
+precipitation	2000
+special	2000
+wind	2000
+anxiety	2000
+smoking	2000
 gallium	2001
 germanium	1999
 arsenic	1997

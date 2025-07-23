@@ -1,5 +1,16 @@
-1st: first
-2nd: second
+1 st: first
+2 b: double
+2b: double
+2 nd: second
+2p: 2-point field goals
+2 pa: 2-point field goal attempts
+3 b: triple
+3b: triple
+3 p: 3-point field goals
+3p: 3-point field goals
+3 par: 3-point attempt rate
+3 pa: 3-point field goal attempts
+3pm: 3-point field goal made
 3rd: third
 4th: fourth
 5th: fifth
@@ -8,11 +19,14 @@
 8th: eighth
 9th: ninth
 10th: tenth
+#: number
+$: dollar
+a: attempts
+ab: at bats
 abbrev: abbreviation
 abdnt: abandonment
 abndnd: abandoned
-abs: absolute
-acc: account
+acc: accuracy
 accg: accounting
 accredit: accreditation
 accy: accessibility
@@ -21,9 +35,11 @@ acq: acquired
 acrn: acronym
 acte: acute
 acust: acoustics
+ad: advertisement
 add: address
 addict: addiction
 addr: address
+adr: address
 addre: address
 admin: administrator
 advsry: advisory
@@ -36,13 +52,14 @@ afrcn: african
 agg: aggregate
 aggr: aggregate
 agri: agriculture
+al: aluminum
 alch: alcohol
 alg: algebra
 algebr: algebra
 align: alignment
 alloc: allocation
 allotmnt: allotment
-alt: alternative
+alt: altitude
 amendmnt: amendment
 amndd: amended
 amt: amount
@@ -53,6 +70,8 @@ anlys: analysis
 ann: annual
 annu: annually
 anthro: anthropology
+apg: assists per game
+api: application programming interface
 appl: application
 appnc: appearance
 appntmnt: appointment
@@ -61,9 +80,14 @@ apr: april
 apt: apartment
 arab: arabic
 arch: architecture
+asin: amazon standard identification number
 assgnd: assigned
 assistv: assistive
+ast: aspartate transaminase
+asts: assists
 athlet: athletics
+atk: attack
+att: attempts
 attach: attachment
 attndng: attending
 aug: august
@@ -71,9 +95,13 @@ auth: authentication
 auto: automotive
 avail: available
 ave: avenue
+avg: average
+b: ballsS
+babip: batting average on balls in play
 bank: banking
 baro: barometer
 barometrc: barometric
+bb: base on balls
 bch: beach
 bds: beds
 beg: begin
@@ -87,18 +115,22 @@ biz: business
 bk: bike
 bld: building
 blk: block
+blks: blocks
 bllng: billing
 blr: boiler
 blt: built
 blvd: boulevard
+bmi: body mass index
 bnft: benefit
 bot: botany
 bp: blood pressure
+bpm: beats per minute
 bse: base
+bsmt: basement
 bst: best
 busn: business
 bxng: boxing
-calc: calculus
+ca: number of major vessels
 callr: caller
 camp: camping
 canc: cancer
@@ -114,17 +146,20 @@ ceo: chief executive officer
 cert: certification
 certif: certification
 cfo: chief financial officer
-ch: channel
+cgpa: cumulative grade point average
 chem: chemistry
 chg: change
 chin: chinese
+chol: cholesterol
 chrgs: charges
 chrtr: charter
 circt: circuit
 circulatn: circulation
 citatn: citation
-cld: calendar
+cl: chlorine
+clin: clinical interpretation
 clt: client
+cmp: completions
 cmt: complaint
 cnditional: conditional
 cndo: condo
@@ -135,11 +170,10 @@ cntr: counter
 cntrast: contrast
 cntrl: control
 cnver: conversion
-co: company
+co: carbon oxide
 coll: college
-com: community
 comm: communication
-comp: computing
+comp: companies
 compl: completed
 compld: complied
 complnc: compliance
@@ -148,16 +182,16 @@ compltn: completion
 composit: composition
 compsci: computer science
 comptr: computer
-con: contact
 cond: condition
+conf: conference
 confid: confidence
 confm: confirmed
 conform: conformity
 congressnal: congressional
 consrvt: conservation
-cont: contact
 contct: contact
 contrib: contributory
+contry: country
 coo: chief organizational officer
 cook: cooking
 coop: cooperation
@@ -166,11 +200,13 @@ corr: correspondent
 corrctns: corrections
 cosmet: cosmetology
 countr: country
+cp: chest pain
+cpi: consumer price index
 cpn: campaign
 creativ: creativity
 crs: cross
 crts: courts
-cs: computer science
+cs: caught stealing
 csh: cash
 cst: cost
 cstd: custodian
@@ -184,10 +220,11 @@ curr: currency
 cust: customer
 cvrd: covered
 cycl: cycling
+d: drawn
 dbt: debt
-dd: day
 dec: decimal
 declaratn: declaration
+def: defending
 defct: deficit
 defendnt: defendant
 deg: degree
@@ -212,6 +249,8 @@ develop: development
 dgt: digit
 dh: datehour
 diam: diameter
+dif: difference
+diff: difference
 dig: digital
 dipl: diploma
 diplom: diplomacy
@@ -223,6 +262,7 @@ dist: distance
 distr: district
 distribtd: distributed
 dive: diving
+dns: domain name system
 dob: date of birth
 doc: document
 doced: documented
@@ -232,6 +272,8 @@ downld: download
 dp: dupe
 dq: data quality
 dr: doctor
+drb: defensive rebounds
+dri: dribling
 drn: drone
 drvng: driving
 drvr: driver
@@ -243,13 +285,19 @@ dspute: dispute
 dst: destination
 dstnc: distance
 dt: date
+duns: dun & bradstreet number
 dur: duration
+dx: diagnosis
+e: errors
 earnd: earned
+ecg: electro cardiogram
 eco: ecology
 econ: economics
 ed: edited
 edu: education
+educ: education
 ees: employees
+eidr: entertainment identifier registry
 elec: electricity
 electn: election
 electve: elective
@@ -272,6 +320,7 @@ eth: ethnology
 ethnc: ethnic
 ety: etymology
 evn: even
+exang: exercise induced angina
 exhbt: exhibit
 exp: experience
 expec: expected
@@ -283,26 +332,33 @@ extns: extension
 factrs: factors
 fail: failure
 fam: family
+famsup: family support
 faq: frequently asked questions
 fatl: fatal
+fbs: fasting blood sugar
 fd: feed
 feat: features
 featr: feature
 feb: february
+fedu: father education
 fem: female
 ferm: fermentation
+fg: field goals
+fga: field goal attempts
+fgm: field goals made
 fil: file
 fin: finance
 financ: financing
 finnc: finance
 fire: fire fighting
 fish: fishing
-fk: foreign key
+fjob: father job
+fk: free kicks
 fl: flag
 fld: field
 fll: full
 flnm: filename
-flr: filer
+flr: floor
 flt: flight
 flu: influenza
 flwr: flower
@@ -311,20 +367,27 @@ fndly: friendly
 foc: focus
 foodsci: food science
 for: forestry
+fp: field points
 fr: fair
 frcast: forecast
 freq: frequency
 frid: friday
 frm: form
-ft: feet
+ft: free throws
+fta: free throw attempts
 ftbl: football
 ftg: footage
+ftm: field throws made
+fum: fumble
 func: function
 fund: funded
 fxd: fixed
+g: games
+gaa: goals against average
 gal: gallery
 garg: garage
 gat: gate
+gb: games behind
 gdn: garden
 gdp: gross domestic product
 gen: genetics
@@ -332,20 +395,31 @@ geo: geography
 geom: geometry
 geron: gerontology
 gl: goal
+gms: games
 gnd: ground
+gp: games played
+gpa: grade point average
 gr: grade
 grad: graduation
 grds: grades
 grns: greens
 grnt: grant
 grp: group
+gs: games started
+gtin: global trade item number
+gwg: game winning goal
 gym: gymnastics
+h: hits
 handl: handle
 hardwr: hardware
+hb: hemoglobin
+hbp: hit by pitch
 hea: health
 headln: headline
 herp: herpetology
 hgt: height
+hp: horse power
+ht: height
 hik: hiking
 hist: history
 hll: hall
@@ -354,15 +428,18 @@ hndc: handicap
 hort: horticulture
 hosp: hospitalizations
 househld: household
-hr: hour
+hr: heart rate
 hrd: hard
 hrly: hourly
 hrs: hours
+hs: high school
 hse: house
 hum: humidity
+ht: height
 hunt: hunting
 hvy: heavy
 hydro: hydrology
+ibb: intentional walk
 ich: ichthyology
 idl: idle
 ignitn: ignition
@@ -379,10 +456,11 @@ inddes: industrial design
 indep: independent
 infdis: infectious diseases
 infnt: infant
+info: information
 inspc: inspections
 inspectr: inspector
 instl: install
-int: integer
+int: interception
 intrel: international relations
 intrm: interim
 intro: introduction
@@ -393,16 +471,20 @@ ip: internet protocol
 ipv4: internet protocol
 ipv6: internet protocol
 iq: inteligence quotient
+isic: international standard of industrial classification of all economic activities 
+iso: international organization for standardization
 iss: issue
 jan: january
 jpn: japanese
 jul: july
 just: justice
+k: strikeout
 kinem: kinematics
 kines: kinesiology
 knwl: knowledge
 kor: korean
 kph: kilometers per hour
+l: losses
 lab: laboratory
 lang: language
 lat: latitude
@@ -418,6 +500,7 @@ lim: limit
 limn: limnology
 ling: linguistics
 lit: literature
+lng: longest run
 loc: location
 long: longitude
 lowr: lower
@@ -428,31 +511,32 @@ machlearn: machine learning
 maj: major
 malac: malacology
 manag: management
-mar: march
 marbio: marine biology
 margn: margin
+market cap: market capitalization
 martarts: martial arts
 math: mathematics
 max: maximum
+mdvp: medical voice parameter
 meas: measurement
 mech: mechanics
 med school: medical school
 med size: medium size
+medu: mother education
 mem: memory
 memo: memorandum
 meta: metaphysics
+mfcc: mel-frequency cepstral coefficients
 mfg: manufacturing
 mghertz: megahertz
+mjob: mother job
 mgmt: management
 mi: miles
 mid: middle
 mil: military
-min: minimum
 mins: minutes
 mk: make
-ml: machine learning
 mle: male
-mm: month
 mn: mean
 mngr: manager
 mnths: months
@@ -465,7 +549,10 @@ modificatn: modification
 mond: monday
 moto: motorcycle
 mov: movie
+mp: minutes played
 mpg: miles per gallon
+mph: miles per hour
+mpn: manufacturer part number
 mps: mips
 mrkt: marketing
 mrktng: marketing
@@ -476,20 +563,26 @@ mus: music
 mycol: mycology
 myst: mystery
 myth: mythology
+n: number
+na: sodium
+naics: north american industry classification system code
 nano: nanotechnology
 narr: narrative
 nat: nature
 natsci: natural science
+nbr: number
 nds: needs
+ndvi: normalized difference vegetation index
+ndwi: normalized difference water index
 nephr: nephrology
 netw: networking
 neurobio: neurobiology
 neurol: neurology
 neurosci: neuroscience
-nm: name
-norm: normalized
+noc: national olympic committee
 nov: november
 nr: number
+nsn: nato stock number
 ntwrk: network
 nul: null
 num: number
@@ -502,40 +595,55 @@ nutr: nutrition
 nxt: next
 objve: objective
 obligtns: obligations
+obp: on-base percentage
 occpd: occupied
 occurrnc: occurrence
 oceano: oceanography
 oct: october
 odonto: odontography
 ofc: office
-off: office
+oldpeak: old peak
 onln: online
 oper: operations
 opn: open
+opp: opponent
 opr: operator
+ops: on-base plus slugging percentage
 optn: option
 optom: optometry
+orb: offensive rebound rate
 ornith: ornithology
+os: operating system
 othr: other
 outbnd: outbound
 ovhd: overhead
+ovr: overall
+p: points / played
+pa: plate appearances
+pac: pace
 pal: paleontology
+parch: parents children
 pars: parasitology
-pas: passenger
+pas: passing
+pass: passing
 path: pathology
 pay: payment
 payrll: payroll
 pchs: purchasing
+pclass: passenger class
 pcode: postal code
 pct: percentage
 pctil: percentile
 pd: period
+peakrpm: peak rotations per minute
+pen: penalty
+per: player efficiency rating
 perc: percentage
 perm: permanent
 pers: personnel
 petitn: petition
 petr: petrology
-ph: phone
+pf: personal fouls
 pharm: pharmacy
 philanth: philanthropy
 philol: philology
@@ -547,12 +655,15 @@ photog: photography
 phys: physics
 physiol: physiology
 pic: photo
-pk: primary key
+pim: penalty infraction minutes
+pin: pitches per inning pitched
+pk: penalty kicks
 plan: planning
 plansci: planetary science
 pln: plan
 pls: plus
 plumb: plumbing
+pm: particulate matter
 pmt: payment
 poet: poetry
 polit: politics
@@ -564,21 +675,24 @@ poten: potential
 povrty: poverty
 pow: power
 ppb: parts per billion
+ppg: points per game
 ppl: people
 ppm: parts per million
 ppnts: participants
-pr: primary
 prbatn: probation
 prc: parcel
 prcessed: processed
 prdictor: predictor
 prdominant: predominant
+precipcover: precipitation cover
+precipprob: precipitation probability
+preciptype: precipitation type
+precip: precipitation
 pred: prediction
 pref: preference
 prep: preparation
 prev: previous
 prfit: profit
-pri: price
 prid: pride
 primatol: primatology
 prmeter: perimeter
@@ -592,6 +706,7 @@ prp: prop
 prponent: proponent
 pst: post
 pstal: postal
+pstatus: parent status
 psted: posted
 psting: posting
 psych: psychology
@@ -599,6 +714,7 @@ psycholing: psycholinguistics
 psychophys: psychophysics
 ptg: painting
 pth: path
+pts: points
 pty: party
 pub: public
 pubhealth: public health
@@ -611,6 +727,7 @@ qa: quality assurance
 qlty: quality
 qry: query
 qt: quantity
+qtr: quarter
 qty: quantity
 qual: quality
 quantcomp: quantum computing
@@ -618,13 +735,16 @@ quantmech: quantum mechanics
 quantphys: quantum physics
 radiatn: radiation
 radiol: radiology
+r: rebounds
+ram: random access memory
+rbi: runs batted in
 rcd: record
 rcnt: recent
 rcpts: receipts
 rcrd: record
 rcv: received
-rd: road
-rec: recreation
+reb: rebounds
+rec: received
 recpt: receipt
 recurrnc: recurrence
 recy: recycling
@@ -638,7 +758,8 @@ renen: renewableenergy
 req: request
 reqs: requirements
 reqstd: requested
-res: resources
+res: residence
+restecg: resting electro cardiogram
 reservatn: reservation
 resmgmt: resource management
 resp: responsible
@@ -646,12 +767,16 @@ resrc: resources
 resrv: reserve
 rev: revenue
 revsn: revision
+rh: relative humidity
 rheo: rheology
+rk: rank
 rm: room
 rmt: remote
 rng: range
 rnk: rank
 robo: robotics
+rpg: rebounds per game
+rpm: rotations per minute
 rpt: report
 rqst: request
 rsdncy: residency
@@ -660,10 +785,10 @@ rsk: risk
 rt: rate
 ru: russian
 run: running
-rw: row
 sanit: sanitation
 sat: saturday
 sav: savings
+sb: stolen base
 sbgrp: subgroup
 sbttl: subtotal
 sc: succint description
@@ -675,30 +800,38 @@ scien: science
 scrcr: scorecard
 sctr: sector
 sculp: sculpture
-sd: standard deviation
 sec: section
 secty: security
 secy: security
-selfest: self-esteem
+selfemp: self employed
+selfest: self esteem
 selfimp: self improvement
 semio: semiotics
 sep: september
 ser: series
 serv: service
-sg: sign
 sgner: signer
+sh:  sacrifice bunt
 sht: shot
+sho: shooting
+sku: stock keeping unit
+sib: siblings
 simul: simulation
 singl: single
 sit: situation
 siz: size
 ski: skiing
 sl: soil
+slg: slugging percentage
+snowdepth: snow depth
+so2: sulphur dioxide
+so 2: sulphur dioxide
 socbio: sociobiology
 socc: soccer
 socio: sociology
 softdev: software development
 softeng: software engineering
+sog: shots on goal
 sol: solution
 solr: solar
 sou: sound
@@ -707,21 +840,31 @@ spaceexp: space exploration
 spch: speech
 spd: speed
 spec: spectroscopy
+spg: steals per game
 spnd: spending
 spo: sport
 sposci: sports science
 spt: spot
+sqft: square foot
+sq ft: square foot
+sq mt: square meters
+sqm: square meters
+sr: strike rate
 srch: search
 srt: start
+ss: strength schedule
 stat: status
 std: standard
 stddev: standard deviation
 stff: staff
+stl: steals
+stls: steals
 strt: start
 stu: student
 stud: student
 submsn: submission
 sun: sunday
+supp: support
 surg: surgery
 surv: survey
 sust: sustainability
@@ -729,14 +872,21 @@ svc: service
 sym: symbolism
 synbio: synthetic biology
 sys: system
+t: ties
 taxi: taxidermy
 taxo: taxonomy
+tb: total bases
 tchr: teacher
+td: touchdown
+tds: touchdowns
 team: teamwork
 tech: technology
 tel: telecommunications
 temp: temperature
 templte: template
+tfidf: term frequency inverse document frequency
+tfl: tackle for loss
+thal: thalassemia type
 thea: theatre
 theo: theology
 ther: therapy
@@ -745,19 +895,25 @@ tim: time
 tit: title
 tkn: taken
 tkng: taking
+tm: team
 tmp: temporary
 tms: times
 topo: topology
+tot: total
+tov: turnovers
 tour: tourism
 toxic: toxicology
 tp: type
+tpg: turnovers per game
 tr: tree
 trad: tradition
 train: training
 tran: transaction
 trans: translation
 trav: travel
+trb:total rebounds
 trd: trade
+trestbps: resting blood pressure
 trm: term
 trned: turned
 trp: trip
@@ -765,6 +921,7 @@ tsk: task
 tst: test
 ttl: total
 tues: tuesday
+tv: television
 tx: tax
 txt: text
 typ: type
@@ -775,9 +932,11 @@ uncmt: uncommitted
 unemp: unemployment
 unemploymnt: unemployment
 uniq: unique
+univ: university
 upld: upload
 urb: urbanism
 urbplan: urban planning
+uri: uniform resource identifier
 usr: user
 vaca: vacation
 vacc: vaccine
@@ -801,12 +960,15 @@ vl: value
 vol: volume
 volc: volcano
 volv: volcanology
+vorp: value over replacement
 vort: vortex
+vs: versus
 vst: visit
 vstor: visitor
 vtr: voter
 vuln: vulnerable
 vw: view
+w: wins
 wd: wide
 wea: weather
 weathr: weather
@@ -816,9 +978,13 @@ weekd: weekday
 wei: weight
 wetlnd: wetland
 wgt: weight
+whip: walks and hits per inning pitched
 whl: wholesale
 wifi: wi-fi
-wk: week
+winddir: wind direction
+winddirection: wind direction
+windgust: wind gust
+windspeed: wind speed
 wkfc: workforce
 wnd: wind
 wood: woodworking
@@ -826,10 +992,14 @@ wrd: ward
 writtn: written
 wrk: work
 wrks: works
+ws: win shares
 wst: waste
+wt: weight
 wtch: watch
 xeno: xenobiology
+y: y variable
 yd: yard
+yds: yards
 yrly: yearly
 yrs: years
 yth: youth
