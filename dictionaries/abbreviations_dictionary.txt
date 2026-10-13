@@ -21,8 +21,6 @@
 10th: tenth
 #: number
 $: dollar
-a: attempts
-ab: at bats
 abbrev: abbreviation
 abdnt: abandonment
 abndnd: abandoned
@@ -30,7 +28,7 @@ acc: accuracy
 accg: accounting
 accredit: accreditation
 accy: accessibility
-acous: acoustics
+acous: acousticness
 acq: acquired
 acrn: acronym
 acte: acute
@@ -90,13 +88,13 @@ atk: attack
 att: attempts
 attach: attachment
 attndng: attending
+attr: attribute
 aug: august
 auth: authentication
 auto: automotive
 avail: available
 ave: avenue
 avg: average
-b: ballsS
 babip: batting average on balls in play
 bank: banking
 baro: barometer
@@ -130,7 +128,6 @@ bsmt: basement
 bst: best
 busn: business
 bxng: boxing
-ca: number of major vessels
 callr: caller
 camp: camping
 canc: cancer
@@ -170,7 +167,7 @@ cntr: counter
 cntrast: contrast
 cntrl: control
 cnver: conversion
-co: carbon oxide
+col: column
 coll: college
 comm: communication
 comp: companies
@@ -220,7 +217,6 @@ curr: currency
 cust: customer
 cvrd: covered
 cycl: cycling
-d: drawn
 dbt: debt
 dec: decimal
 declaratn: declaration
@@ -269,11 +265,10 @@ doced: documented
 dollr: dollar
 dom: dominance
 downld: download
-dp: dupe
 dq: data quality
 dr: doctor
 drb: defensive rebounds
-dri: dribling
+dri: dribbling
 drn: drone
 drvng: driving
 drvr: driver
@@ -288,7 +283,6 @@ dt: date
 duns: dun & bradstreet number
 dur: duration
 dx: diagnosis
-e: errors
 earnd: earned
 ecg: electro cardiogram
 eco: ecology
@@ -353,8 +347,6 @@ finnc: finance
 fire: fire fighting
 fish: fishing
 fjob: father job
-fk: free kicks
-fl: flag
 fld: field
 fll: full
 flnm: filename
@@ -366,7 +358,6 @@ fn: fund
 fndly: friendly
 foc: focus
 foodsci: food science
-for: forestry
 fp: field points
 fr: fair
 frcast: forecast
@@ -377,12 +368,11 @@ ft: free throws
 fta: free throw attempts
 ftbl: football
 ftg: footage
-ftm: field throws made
+ftm: free throws made
 fum: fumble
 func: function
 fund: funded
 fxd: fixed
-g: games
 gaa: goals against average
 gal: gallery
 garg: garage
@@ -409,17 +399,16 @@ gs: games started
 gtin: global trade item number
 gwg: game winning goal
 gym: gymnastics
-h: hits
 handl: handle
 hardwr: hardware
 hb: hemoglobin
 hbp: hit by pitch
+hdr: header
 hea: health
 headln: headline
 herp: herpetology
 hgt: height
 hp: horse power
-ht: height
 hik: hiking
 hist: history
 hll: hall
@@ -434,14 +423,15 @@ hrly: hourly
 hrs: hours
 hs: high school
 hse: house
-hum: humidity
 ht: height
+hum: humidity
 hunt: hunting
 hvy: heavy
 hydro: hydrology
 ibb: intentional walk
 ich: ichthyology
 idl: idle
+idx: index
 ignitn: ignition
 img: image
 imm: immunology
@@ -470,21 +460,20 @@ invo: invoice
 ip: internet protocol
 ipv4: internet protocol
 ipv6: internet protocol
-iq: inteligence quotient
-isic: international standard of industrial classification of all economic activities 
+iq: intelligence quotient
+isic: international standard of industrial classification of all economic activities
 iso: international organization for standardization
 iss: issue
+itm: item
 jan: january
 jpn: japanese
 jul: july
 just: justice
-k: strikeout
 kinem: kinematics
 kines: kinesiology
 knwl: knowledge
 kor: korean
 kph: kilometers per hour
-l: losses
 lab: laboratory
 lang: language
 lat: latitude
@@ -525,17 +514,18 @@ med size: medium size
 medu: mother education
 mem: memory
 memo: memorandum
-meta: metaphysics
 mfcc: mel-frequency cepstral coefficients
 mfg: manufacturing
 mghertz: megahertz
 mjob: mother job
+mg: milligrams
 mgmt: management
 mi: miles
 mid: middle
 mil: military
 mins: minutes
 mk: make
+ml: milliliter
 mle: male
 mn: mean
 mngr: manager
@@ -618,7 +608,6 @@ othr: other
 outbnd: outbound
 ovhd: overhead
 ovr: overall
-p: points / played
 pa: plate appearances
 pac: pace
 pal: paleontology
@@ -635,9 +624,9 @@ pcode: postal code
 pct: percentage
 pctil: percentile
 pd: period
-peakrpm: peak rotations per minute
+pdays: passed days
+peakrpm: peak revolutions per minute
 pen: penalty
-per: player efficiency rating
 perc: percentage
 perm: permanent
 pers: personnel
@@ -672,6 +661,7 @@ poly: polygon
 por: portuguese
 pos: position
 poten: potential
+poutcome: previous outcome
 povrty: poverty
 pow: power
 ppb: parts per billion
@@ -735,7 +725,6 @@ quantmech: quantum mechanics
 quantphys: quantum physics
 radiatn: radiation
 radiol: radiology
-r: rebounds
 ram: random access memory
 rbi: runs batted in
 rcd: record
@@ -776,7 +765,7 @@ rng: range
 rnk: rank
 robo: robotics
 rpg: rebounds per game
-rpm: rotations per minute
+rpm: revolutions per minute
 rpt: report
 rqst: request
 rsdncy: residency
@@ -811,7 +800,7 @@ sep: september
 ser: series
 serv: service
 sgner: signer
-sh:  sacrifice bunt
+sh: sacrifice bunt
 sht: shot
 sho: shooting
 sku: stock keeping unit
@@ -872,14 +861,12 @@ svc: service
 sym: symbolism
 synbio: synthetic biology
 sys: system
-t: ties
 taxi: taxidermy
 taxo: taxonomy
 tb: total bases
 tchr: teacher
 td: touchdown
 tds: touchdowns
-team: teamwork
 tech: technology
 tel: telecommunications
 temp: temperature
@@ -911,7 +898,7 @@ train: training
 tran: transaction
 trans: translation
 trav: travel
-trb:total rebounds
+trb: total rebounds
 trd: trade
 trestbps: resting blood pressure
 trm: term
@@ -927,7 +914,6 @@ txt: text
 typ: type
 typo: typography
 typs: types
-uk: unique key
 uncmt: uncommitted
 unemp: unemployment
 unemploymnt: unemployment
@@ -942,6 +928,7 @@ vaca: vacation
 vacc: vaccine
 val: value
 valuatn: valuation
+var: variance
 vat: value added tax
 veh: vehicle
 vel: velocity
@@ -968,7 +955,6 @@ vstor: visitor
 vtr: voter
 vuln: vulnerable
 vw: view
-w: wins
 wd: wide
 wea: weather
 weathr: weather
@@ -996,6 +982,7 @@ ws: win shares
 wst: waste
 wt: weight
 wtch: watch
+x: x variable
 xeno: xenobiology
 y: y variable
 yd: yard
@@ -1004,6 +991,5 @@ yrly: yearly
 yrs: years
 yth: youth
 yr: year
-yy: year
 yyyy: year
 zn: zone
